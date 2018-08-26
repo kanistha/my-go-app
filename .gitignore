@@ -1,0 +1,9 @@
+.idea*
+*.iml
+.gradle
+.DS_Store
+build/
+bin
+pkg
+src/incar/vendor
+target
